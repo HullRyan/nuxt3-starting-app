@@ -1,7 +1,7 @@
 <template>
 	<div class="flex gap-10 p-6 border-b-2">
-		<NuxtLink to="/"> Home </NuxtLink>
-		<NuxtLink to="/about"> About </NuxtLink>
+		<NuxtLink to="/nuxt3-starting-app"> Home </NuxtLink>
+		<NuxtLink to="/nuxt3-starting-app/about"> About </NuxtLink>
 	</div>
 </template>
 
